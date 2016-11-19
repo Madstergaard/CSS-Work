@@ -1,0 +1,62 @@
+h1 { /* food heading 1*/
+  font-weight: 800;
+  font-size: 4em;
+  padding:0px;
+  margin-top:0;
+}
+
+#head1 {
+  background-color: #C60F7B;
+  color: white;
+}
+
+
+h2 {
+	font-size: 25px;
+	font-weight: bold;
+	color: #0000b3;
+	padding: 3px;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+
+
+.content {
+	font-size: 20px;
+	font-weight: bold;
+	color: #0000b3;
+	padding: 1px;
+	text-transform: capitalize;
+
+}
+
+.navzone {
+	font-style: italic;
+	color: #9999ff;
+	word-spacing: 4px;
+
+}
+
+#tehlulz {
+	color: black;
+	list-style-type: upper-roman;
+}
+
+.prose {
+	text-align: center;
+	color: #00004d;
+	text-indent: 10px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+
+}
+
+.extreme {
+	text-align: center;
+	color: #00004d;
+	font-size: 10px;
+  	margin: auto;
+  	text-align: center;
+  	text-transform: capitalize;
+}
