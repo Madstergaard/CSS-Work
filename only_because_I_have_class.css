@@ -1,13 +1,10 @@
-h1 { /* food heading 1*/
-  font-weight: 800;
-  font-size: 4em;
-  padding:0px;
-}
-
 #head1 {
   background-color: #C60F7B;
   color: #E5ECE9;
   font-size: 2em;
+  font-weight: 800;
+  font-size: 4em;
+  padding:0px;
 }
 
 

@@ -1,0 +1,107 @@
+
+#head1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #C60F7B;
+  text-align: center;
+  text-transform: capitalize;
+  margin-top: 0;
+  font: "Imprint MT Shadow";
+}
+
+.extreme { /* heading & copyright */
+  margin: auto;
+  text-align: center;
+  color: #C60F7B;
+  padding:0px;
+}
+
+body { /* everything but title (head) */
+  margin: 0;
+  background-color: #E5ECE9;
+}
+
+.navzone { /* all navigation */
+  position: absolute;
+  margin-top: -13px;
+  margin-left: 8px;
+}
+
+.navzone2 { /* all navigation */
+  margin-left: 100px;
+}
+
+h3 { /* nav foo 1*/
+  font-weight: 600;
+  width: 120px;
+}
+
+ul { /* list */
+  width: 120px;
+  list-style-type: circle;
+  padding:0px;
+}
+
+a { /* links */
+  color: #C60F7B;
+}
+
+
+h2 { /* main foo heading */
+  font-weight: 600;
+}
+
+.content { /* main foo heading & paragraph */
+  margin-left: 208px;
+}
+
+.prose { /* paragraph */
+  font-style: italic;
+  font-weight: 400;
+  color: #545654;
+  margin-right: 208px;
+}
+
+.slider {
+      overflow-y: hidden;
+      max-height: 200px;
+
+      -webkit-transition-property: all;
+      -webkit-transition-duration: .5s;
+      -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+
+      -moz-transition-property: all;
+      -moz-transition-duration: .5s;
+      -moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+
+      -ms-transition-property: all;
+      -ms-transition-duration: .5s;
+      -ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+
+      transition-property: all;
+      transition-duration: .5s;
+      transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+
+      background: pink;
+      height: 500px; 
+      width: 500px;
+    }
+
+.slider.closed {
+   max-height: 0;
+}
+
+#second {
+  background:violet;
+}
+
+.circle {
+
+               border-radius: 50%;
+
+               width: 200px;
+
+               height: 200px;        /* width and height can be anything, as long as they're equal */ 
+
+               } 
+
