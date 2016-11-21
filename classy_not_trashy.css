@@ -4,10 +4,10 @@
   font-size: 2em;
   font-weight: bold;
   color: #C60F7B;
-  padding: .1em;
   text-align: center;
   text-transform: capitalize;
   margin-top: 0;
+  font: "Imprint MT Shadow";
 }
 
 .extreme { /* heading & copyright */
@@ -37,11 +37,6 @@ ul { /* list */
   width: 120px;
   list-style-type: circle;
   padding:0px;
-}
-
-#tehlulz a:hover { /* hovering! */
-  color: #ef2d56;
-  font-size: 1.2em;
 }
 
 a { /* links */
